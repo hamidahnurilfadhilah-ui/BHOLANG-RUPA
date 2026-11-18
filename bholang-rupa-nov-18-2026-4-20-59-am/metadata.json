@@ -1,0 +1,6 @@
+{
+  "name": "BHOLANG RUPA",
+  "description": "Platform pembelajaran interaktif Unsur-Unsur dan Prinsip Seni Rupa untuk siswa kelas X SMK dengan Laboratorium Seni Digital, Galeri Kelas, Forum Diskusi, Kuis Evaluasi, Dashboard Guru, dan Integrasi Google Drive & Google Sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
